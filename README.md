@@ -15,7 +15,7 @@ I'm a **Cognitive Neuroscientist** based in Rome, Italy, with an MSc from Sapien
 
 ## 🔬 Research Experience
 - **Brain Imaging Lab, Sapienza / Santa Lucia Foundation** — fMRI study on neural mechanisms of reach-to-grasp actions (NCM Conference Poster, 2024)
-- **Ottaviani Lab, Sapienza** — EEG study on reward processing deficits in repetitive negative thinking (*Psychological Medicine*, Schettino et al., 2026)
+- **Department of Education, Roma Tre / Sapienza University of Rome** — EEG data collection for a study on reward processing deficits in repetitive negative thinking, supervised by Prof. Cristina Ottaviani (*Psychological Medicine*, Schettino et al., 2026)
 
 ---
 
