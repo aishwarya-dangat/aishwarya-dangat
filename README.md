@@ -24,7 +24,7 @@ I'm a **Cognitive Neuroscientist** based in Rome, Italy, with an MSc from Sapien
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 
-**Neuroimaging:** fMRI (fMRIprep, SPM, BMAT), EEG (preprocessing, ERP analysis)  
+**Neuroimaging:** fMRI (fMRIprep, SPM), EEG (preprocessing, ERP analysis)  
 **Programming:** Python (pandas, NumPy, matplotlib), MATLAB  
 **Statistics:** JAMOVI, regression, ANOVA, signal processing  
 **Currently learning:** MNE-Python, NeuroKit2
