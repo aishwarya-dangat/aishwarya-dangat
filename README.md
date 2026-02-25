@@ -22,13 +22,12 @@ I'm a **Cognitive Neuroscientist** based in Rome, Italy, with an MSc from Sapien
 ## 🛠️ Tools & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![MNE](https://img.shields.io/badge/MNE--Python-EEG-brightgreen)
-![NeuroKit2](https://img.shields.io/badge/NeuroKit2-HRV-blue)
-![SPM](https://img.shields.io/badge/SPM-fMRI-orange)
 
-**Neuroimaging:** fMRI (fMRIprep, SPM), EEG (preprocessing, ERP analysis)  
+
+**Neuroimaging:** fMRI (fMRIprep, SPM, BMAT), EEG (preprocessing, ERP analysis)  
 **Programming:** Python (pandas, NumPy, matplotlib), MATLAB  
-**Statistics:** JAMOVI, regression, ANOVA, signal processing
+**Statistics:** JAMOVI, regression, ANOVA, signal processing  
+**Currently learning:** MNE-Python, NeuroKit2
 
 ---
 
