@@ -27,12 +27,20 @@ I'm a **Cognitive Neuroscientist** based in Rome, Italy, with an MSc from Sapien
 **Neuroimaging:** fMRI (fMRIprep, SPM), EEG (preprocessing, ERP analysis)  
 **Programming:** Python (pandas, NumPy, matplotlib), MATLAB  
 **Statistics:** JAMOVI, regression, ANOVA, signal processing  
-**Currently learning:** MNE-Python, NeuroKit2
+**skills:** MNE-Python, WFDB, signal processing pipelines
 
 ---
 
 ## 📂 Projects
-*Projects in progress — check back soon!*
+
+🫀 [ECG HRV Pipeline](https://github.com/aishwarya-dangat/ecg-hrv-pipeline) | 
+Complete HRV analysis pipeline — simulated and real ECG data, time and frequency 
+domain metrics (SDNN, RMSSD, LF/HF), power spectrum visualisation | 
+Python, NeuroKit2, WFDB, scipy
+
+🧠 [HRV Slow Breathing](https://github.com/aishwarya-dangat/hrv-slow-breathing) | 
+Analysing HRV during slow-paced breathing at 0.1 Hz resonance frequency | 
+Python, NeuroKit2 | 🔄 In progress
 
 ---
 
@@ -48,4 +56,5 @@ I'm a **Cognitive Neuroscientist** based in Rome, Italy, with an MSc from Sapien
 
 ---
 
-*Currently exploring PhD opportunities in cognitive neuroscience and psychophysiology across Europe.*
+*Actively applying for PhD positions in psychophysiology and 
+computational neuroscience across Europe.*
